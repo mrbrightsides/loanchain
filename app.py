@@ -15,6 +15,8 @@ with st.sidebar:
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
     **Loan Chain** is the shared control plane for syndicated loan risk, where every party sees the same truth, at the same time
+
+    > The live version can be accessed here https://loanchain.elpeef.com/
     
     ---
     #### 🔮 Vision Statement
