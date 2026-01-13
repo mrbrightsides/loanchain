@@ -10,6 +10,12 @@ Built for the **LMA Edge Hackathon**
 
 > For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
 
+[![Live Web App](https://img.shields.io/badge/Live%20Web-loanchain.elpeef.com-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://loanchain.elpeef.com)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20Demo-loanchain.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://loanchain.streamlit.app)
+
+[![GreenLend Integration](https://img.shields.io/badge/GreenLend%20MicroFinance-greenlend.elpeef.com-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)](https://greenlend.elpeef.com)
+
 ---
 
 ## 🎯 Problem Statement
