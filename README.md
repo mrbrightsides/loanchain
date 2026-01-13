@@ -8,6 +8,8 @@ Built for the **LMA Edge Hackathon**
 **Primary Categories:** 🌍 Greener Lending | 📊 Transparent Loan Trading  
 **Secondary Categories:** 📝 Keeping Loans on Track | 💼 Digital Loans
 
+> For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
+
 ---
 
 ## 🎯 Problem Statement
