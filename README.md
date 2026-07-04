@@ -696,7 +696,3 @@ For technical questions or demo requests during the hackathon:
 - [OnchainKit Docs](https://onchainkit.xyz)
 - [BaseScan Sepolia](https://sepolia.basescan.org)
 - [Pinata IPFS](https://pinata.cloud)
-
----
-
-**Built for the LMA Edge Hackathon | Keeping Loans on Track Category**
