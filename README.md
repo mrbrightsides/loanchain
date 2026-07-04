@@ -3,8 +3,7 @@
 **Transparent Syndicated Loan Management with Cross-Chain Microfinance Impact**
 
 LoanChain Ledger brings unprecedented transparency and efficiency to syndicated loan management by providing a single, verifiable source of truth throughout the entire loan lifecycle. Built on Base blockchain with Ethereum integration, the platform bridges institutional capital to grassroots microfinance, demonstrating unified visibility across every lending scale.
-
-Built for the **LMA Edge Hackathon**  
+ 
 **Primary Categories:** 🌍 Greener Lending | 📊 Transparent Loan Trading  
 **Secondary Categories:** 📝 Keeping Loans on Track | 💼 Digital Loans
 
@@ -228,7 +227,7 @@ The only platform bridging institutional syndicated loans with grassroots microf
 - Comprehensive risk heatmap visualization
 - Multi-party collaboration tracking
 - Obligation timeline with covenant monitoring
-- Event standardization (LMA-aligned taxonomy)
+- Event standardization
 - Extended metrics dashboard with demographic breakdowns
 
 ---
@@ -579,87 +578,6 @@ One Platform. Every Scale. Total Transparency.
 
 ---
 
-## 🎓 For LMA Edge Hackathon Judges
-
-### Business Value Proposition
-
-1. **Operational Efficiency**
-   - Reduce reconciliation time by 60-70%
-   - Shorten audit preparation by 50%
-   - Single platform replaces fragmented systems
-
-2. **Risk Management**
-   - Proactive identification of loans at risk
-   - Clear status indicators for portfolio health
-   - Early warning system for covenant breaches
-
-3. **Compliance & Trust**
-   - Complete, immutable audit trail
-   - Verifiable records for regulators
-   - Eliminate disputes between syndicate members
-
-4. **Enterprise Ready**
-   - Desktop-first design for financial professionals
-   - Works without blockchain knowledge
-   - Scales on Base L2 infrastructure
-
-### Demo Script (3 Minutes)
-
-**Minute 1: The Problem** (30 seconds)
-- Agent banks track loans across spreadsheets and emails
-- Reconciliation between syndicate members is manual and slow
-- Audit preparation requires gathering scattered documents
-- Disputes arise from lack of shared, verifiable records
-
-**Minute 2: The Solution** (90 seconds)
-- **AI Assistant**: Click floating chat button → Ask "What is LoanChain?" → Show intelligent guidance
-- **Dashboard Overview**: Show portfolio with loan statuses (Active, At Risk)
-- **Create Loan**: 
-  - Show "Quick Start Templates" → Click template → All fields auto-filled
-  - Type loan amount → Watch live calculations update (monthly payment, total interest)
-- **Enhanced Obligations**:
-  - Switch between List/Calendar/Timeline views
-  - Filter obligations dynamically
-  - Hover over cards → Show quick actions (Mark Complete, Set Reminder, Escalate)
-  - Export to CSV
-- **Documents Tab**:
-  - Upload multiple documents at once
-  - Show IPFS CID and gateway URL
-  - Click "Download from IPFS" → Retrieve from decentralized storage
-  - Generate QR code for mobile verification
-  - Mint document as NFT on Base
-- **🔥 HERO MOMENT - Cross-Chain Integration**: Switch to "Microfinance Impact" tab
-  - **Click Refresh button** → Watch numbers update dynamically!
-  - **"Live Cross-Chain" badge** → Proves real Ethereum integration
-  - **855 active microloans, $2.25M disbursed, 94.2% repayment rate**
-  - **81/100 SDG Score** → Environmental & social impact
-  - **5 countries visible** → Kenya, Bangladesh, Peru, Philippines, Ghana
-  - **Show architecture infographic** → Base ↔ Ethereum bridge visualization
-  - **Scroll to impact metrics** → Jobs, families, CO2 offset, women borrowers
-- **Technical Proof**: Show Etherscan transaction (0x05b8af9b...f416af)
-- **Contract Address**: Deployed at 0x3cC2c2F0...27E1274DC on Ethereum Sepolia
-
-**Minute 3: The Impact** (60 seconds)
-- **Time Savings**: 60-70% reduction in reconciliation effort
-- **Audit Efficiency**: 50% faster audit preparation
-- **Trust & Compliance**: Immutable records eliminate disputes
-- **Scalability**: Built on Base L2 for enterprise-grade performance
-- **Cross-Chain Vision**: "One platform. Every scale. From $100M syndications to $500 microloans."
-- **AI Onboarding**: Intelligent assistant helps users navigate complex features
-- **Decentralized Storage**: Documents permanently stored on IPFS, not centralized servers
-
-### Key Differentiators (Why We Win)
-
-- 🏆 **Cross-Chain Bridge** - ONLY platform connecting institutional loans to grassroots microfinance via blockchain
-- 🔗 **Live Integration** - Real data from deployed Ethereum contracts (not mockups!)
-- 🌍 **Greener Lending Focus** - Sustainable microfinance with SDG tracking built-in
-- 📊 **Dual-Scale Visibility** - $100M syndications AND $500 microloans on one platform
-- 🤖 **AI Onboarding** - Intelligent chatbot guides users through complex features
-- 📄 **IPFS Storage** - Decentralized document storage with Pinata integration
-- 💎 **NFT Minting** - Documents can be minted as NFTs on Base for extra verification
-
----
-
 ## 🔐 Security Considerations
 
 - Smart contracts should be audited before mainnet deployment
@@ -681,7 +599,7 @@ One Platform. Every Scale. Total Transparency.
 - [x] Status monitoring (Active, At Risk, etc.)
 - [x] Risk heatmap with real-time visualization
 - [x] Obligation timeline with covenant monitoring
-- [x] Event standardization (LMA-aligned taxonomy)
+- [x] Event standardization
 - [x] **GreenLend cross-chain integration**
   - [x] Live API integration with Ethereum Sepolia
   - [x] Real-time microfinance portfolio data (855+ loans)
@@ -738,7 +656,7 @@ One Platform. Every Scale. Total Transparency.
 
 ## 🤝 Contributing
 
-This project was built for the LMA Edge Hackathon. For inquiries or collaboration:
+For inquiries or collaboration:
 
 1. Review the codebase structure
 2. Check existing issues/features
@@ -755,7 +673,6 @@ This project was built for the LMA Edge Hackathon. For inquiries or collaboratio
 
 ## 🙏 Acknowledgments
 
-- **LMA Edge Hackathon** for the opportunity to innovate
 - **Base** for enterprise-grade blockchain infrastructure
 - **Coinbase** for OnchainKit developer tools
 - **Wagmi** and **Viem** teams for excellent tooling
@@ -779,7 +696,6 @@ For technical questions or demo requests during the hackathon:
 - [OnchainKit Docs](https://onchainkit.xyz)
 - [BaseScan Sepolia](https://sepolia.basescan.org)
 - [Pinata IPFS](https://pinata.cloud)
-- [LMA Edge Hackathon](https://lma.eu.com)
 
 ---
 
