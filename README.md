@@ -46,7 +46,7 @@ LoanChain Ledger provides a **desktop-first control platform** with **cross-chai
 
 ---
 
-## 🏆 Hackathon Categories Alignment
+## 🏆 Categories Alignment
 
 ### 🌍 **Primary: Greener Lending** (Our Strongest Category)
 LoanChain's **cross-chain microfinance integration** demonstrates how institutional capital can flow to sustainable grassroots lending:
